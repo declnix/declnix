@@ -1,7 +1,7 @@
-I like systems where complexity lives in one layer so every other layer stays simple ❄️. My machines are fully declarative and rebuild from a single command. My Zsh plugins load in a provably correct order. The [coloring app I made for my son](https://declnix.github.io/colorbook/) has no menus.
+Got into Nix ❄️ because I fell in love with how declarative it is. Whole machine rebuilt from one file, from scratch — still hasn't gotten old.
 
-I enjoy picking up new technologies and going deep on them — stacks evolve, and I evolve with them. Sometimes that means finding a gap worth filling 🔧.
+Made [this coloring app](https://declnix.github.io/colorbook/) 🎨 for my son. Why? Why not. He can't read yet so no menus. Tons of coloring pages inside.
 
-The main limiter is time. Adult life 🙂.
+No real stack — I write in whatever's at hand 🤹. Honestly I just like tech in general.
 
-TypeScript · Nix ❄️
+Time is the only real bottleneck. Kid, job, the usual 🙃.
